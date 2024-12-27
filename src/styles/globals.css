@@ -1,3 +1,6 @@
+@import "./dnd.css";
+@import "./tailwind.css";
+
 html,
 body {
   padding: 0;
